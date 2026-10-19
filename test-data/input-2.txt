@@ -1,0 +1,5 @@
+# Teszt 2: Váltakozó tüzelés (második SINGLE a másodlagos tárból)
+GT4500,10,0.0,10,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT

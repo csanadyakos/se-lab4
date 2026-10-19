@@ -1,0 +1,4 @@
+# Teszt 5: Tüzelés mindkét tárból egyszerre
+GT4500,10,0.0,10,0.0
+TORPEDO,ALL
+EXIT

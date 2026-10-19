@@ -1,0 +1,4 @@
+# Teszt 4: Ha a tüzelő tár hibát jelez, nem próbálja meg a másikat
+GT4500,10,1.0,10,0.0
+TORPEDO,SINGLE
+EXIT
