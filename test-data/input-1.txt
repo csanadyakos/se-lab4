@@ -1,0 +1,4 @@
+# Teszt 1: SINGLE tüzelés az elsődleges tárból
+GT4500,10,0.0,10,0.0
+TORPEDO,SINGLE
+EXIT
